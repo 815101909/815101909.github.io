@@ -13,6 +13,15 @@
   <url>
     <loc>https://815101909.github.io/tags/index.html</loc>
     
+    <lastmod>2023-12-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://815101909.github.io/social/fcircle/index.html</loc>
+    
     <lastmod>2023-12-04</lastmod>
     
     <changefreq>monthly</changefreq>
@@ -21,15 +30,6 @@
   
   <url>
     <loc>https://815101909.github.io/social/link/index.html</loc>
-    
-    <lastmod>2023-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://815101909.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/personal/love/index.html</loc>
+    <loc>https://815101909.github.io/site/census/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -65,15 +65,6 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/site/census/index.html</loc>
-    
-    <lastmod>2023-12-04</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://815101909.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
@@ -83,7 +74,16 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/life/games/index.html</loc>
+    <loc>https://815101909.github.io/personal/love/index.html</loc>
+    
+    <lastmod>2023-12-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://815101909.github.io/life/music/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/life/music/index.html</loc>
+    <loc>https://815101909.github.io/life/games/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -173,13 +173,6 @@
 
   
   <url>
-    <loc>https://815101909.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2023-12-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://815101909.github.io/tags/Markdown/</loc>
     <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
@@ -188,6 +181,13 @@
   
   <url>
     <loc>https://815101909.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
+    <lastmod>2023-12-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://815101909.github.io/tags/%E7%AE%97%E6%B3%95/</loc>
     <lastmod>2023-12-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
