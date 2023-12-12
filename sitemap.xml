@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/social/link/index.html</loc>
+    <loc>https://815101909.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/social/fcircle/index.html</loc>
+    <loc>https://815101909.github.io/social/link/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -182,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/box/gallery/index.html</loc>
+    <loc>https://815101909.github.io/box/animation/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -191,7 +191,7 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/box/animation/index.html</loc>
+    <loc>https://815101909.github.io/box/gallery/index.html</loc>
     
     <lastmod>2023-12-04</lastmod>
     
@@ -227,6 +227,13 @@
 
   
   <url>
+    <loc>https://815101909.github.io/tags/Java/</loc>
+    <lastmod>2023-12-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://815101909.github.io/tags/Markdown/</loc>
     <lastmod>2023-12-12</lastmod>
     <changefreq>weekly</changefreq>
@@ -241,14 +248,7 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/tags/Redis/</loc>
-    <lastmod>2023-12-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://815101909.github.io/tags/Java/</loc>
+    <loc>https://815101909.github.io/tags/JavaWeb/</loc>
     <lastmod>2023-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -262,7 +262,7 @@
   </url>
   
   <url>
-    <loc>https://815101909.github.io/tags/JavaWeb/</loc>
+    <loc>https://815101909.github.io/tags/Redis/</loc>
     <lastmod>2023-12-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
